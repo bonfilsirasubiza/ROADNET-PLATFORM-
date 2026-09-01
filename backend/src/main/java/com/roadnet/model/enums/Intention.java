@@ -1,0 +1,13 @@
+package com.roadnet.model.enums;
+
+public enum Intention {
+    MARRIAGE,
+    SERIOUS_RELATIONSHIP,
+    DATING,
+    FRIENDSHIP,
+    COMPANIONSHIP,
+    LONG_DISTANCE,
+    DIASPORA_CONNECTION,
+    CULTURAL_EXCHANGE,
+    SHARED_EXPERIENCES
+}
